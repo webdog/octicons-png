@@ -1,3 +1,3 @@
-# octicons-black-and-white-png
+# Png'd octicons
 
-This is a fork of [`octiocons-png`](https://github.com/webdog/octicons-png/) with white icons.
+This repo was created in an effort to use github octicons in keynote. Current octicons are in SVG, which keynote doesn't support. Currently offering black and white octicons. Enjoy!
