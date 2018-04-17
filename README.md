@@ -1,5 +1,3 @@
-# octicons-png
-Keynote hates SVGs, convert SVGs to PNGS
+# octicons-black-and-white-png
 
-
-Feel free to use these to your heart's content
+This is a fork of [`octiocons-png`](https://github.com/webdog/octicons-png/) with white icons.
